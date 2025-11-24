@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/appdev-upskilling-fy2603/jefry.l.sayloon/_apis/build/status%2Fjsayloon3.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/appdev-upskilling-fy2603/jefry.l.sayloon/_build/latest?definitionId=21&branchName=master)
+[![Build Status](https://dev.azure.com/appdev-upskilling-fy2603/jefry.l.sayloon/_apis/build/status%2Fjsayloon3.pipelines-dotnet-core?branchName=master&jobName=Job)](https://dev.azure.com/appdev-upskilling-fy2603/jefry.l.sayloon/_build/latest?definitionId=21&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
